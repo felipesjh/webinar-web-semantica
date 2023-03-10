@@ -1,0 +1,11 @@
+header, main, footer{
+  height: 50px;
+  width: 100%;
+  border: 1px solid;
+}
+
+header{  background: red;}
+main{  background: blue;}
+footer{ background: green;}
+
+li{ list-style:none; float:left;}
